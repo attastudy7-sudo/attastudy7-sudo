@@ -1,15 +1,15 @@
-<picture>
-  <img alt="github-snake" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxhenFzendvaDJmMjczeWRlMmh6aTk0M3gzYm9weWZwOWNsZHQzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WiVvi66FqT2bpym6R8/giphy.gif" />
-</picture>
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/attastudy7-sudo/attastudy7-sudo/output/ocean.gif" width="600" />
+</p>
 
-## Huh You Found Me!!!
+## Wait a Minute, Who Are You??
 
 
 ## By the way, I'm Kwabena Twum 👋
 Full-Stack Developer & Computer Science Student at KNUST 🚀
 
 # 💫 About Me:
-🎓 Studying Computer Science at Kwame Nkrumah University of Science and Technology.<br><br>💻 Freelance Full-Stack Software Developer specializing in production-ready web applications.<br><br>🛠️ Building backend architectures with Python, Flask, PostgreSQL, and SQLAlchemy.<br><br>🎨 Crafting responsive, mobile-first interfaces using JavaScript, Tailwind CSS, and Jinja2.<br><br>🚀 Self-hosting and deploying systems on Hetzner VPS using Nginx, Coolify, and Cloudflare.<br><br>⚡ Integrating AI APIs (Groq, OpenRouter, DeepSeek) for real-time streaming and background automation.<br><br>💬 Ask me about building SaaS products, database modeling, or infrastructure setup.<br><br>Current Projects / Spotlight<br><br>Motown AI: AI-powered study platform generating custom flashcards, quizzes, and podcasts from learning materials.<br><br>Quessa (CediPoll): Academic survey and participant data collection platform for university research.<br><br>SESA Platform: Social-Emotional Students' Audit platform evaluating student emotional well-being.
+🎓 Studying Computer Science at Kwame Nkrumah University of Science and Technology.<br><br>💻 Freelance Full-Stack Software Developer specializing in production-ready web applications.<br><br>🛠️ Building backend architectures with Python, Flask, PostgreSQL, and SQLAlchemy.<br><br>🎨 Crafting responsive, mobile-first interfaces using JavaScript, Tailwind CSS, and Jinja2.<br><br>🚀 Self-hosting and deploying systems on Hetzner VPS using Nginx, Coolify, and Cloudflare.<br><br>⚡ Integrating AI APIs (Groq, OpenRouter, DeepSeek) for real-time streaming and background automation.<br><br>💬 Ask me about building SaaS products, database modeling, or infrastructure setup.<br><br>Current Projects / Spotlight<br><br>Motown AI: AI-powered study platform generating custom flashcards, quizzes, and podcasts from learning materials. Check it out here: <a href="https://motownai.com">Motown AI Link</a><br><br>CediPoll: Academic survey and participant data collection platform for university research. Check here: <a href="https://cedipoll.com"> CediPoll Link</a>
 
 
 ## 🌐 Socials:
