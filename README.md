@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/attastudy7-sudo/attastudy7-sudo/output/ocean.gif" width="100%" />
+  <img alt="github-snake" src="https://cdn.statically.io/img/images.pexels.com/photos/31177056/pexels-photo-31177056.jpeg width="100%" />
 </p>
 
 ## Wait a Minute, Who Are You??
